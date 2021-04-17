@@ -1004,7 +1004,7 @@
       </AABB>
     </Item>
     <Item type="CScenarioPointRegionDef">
-      <Name>compcache:/test_ymt/sandy_shores_airfield</Name>
+      <Name>compcache:/scenario-test-resource/sandy_shores_airfield</Name>
       <AABB>
         <min x="622.954590" y="2770.269043" z="36.411549" w="0.000000" />
         <max x="1857.551880" y="3406.670898" z="173.499557" w="0.000000" />
